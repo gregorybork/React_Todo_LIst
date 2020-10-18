@@ -10,17 +10,15 @@ This is a React app where you can add, delete, and filter todos. The app can be 
 
 ## Demo
 
-![covid19_demo](https://user-images.githubusercontent.com/46305741/96385566-8ebd7d80-1149-11eb-97b7-32aa9bf17697.gif)
+![todolist_demo](https://user-images.githubusercontent.com/46305741/96386549-a2b8ad80-1150-11eb-8895-2c8fcf53de1c.gif)
+
 
 
 ## Technologies
 
 - React
-- Chart.JS
-- Material UI
 - HTML
 - CSS
 - Javascript
-- API used: https://covid19.mathdro.id/api
 
 
