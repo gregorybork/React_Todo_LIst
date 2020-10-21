@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # To-Do List
 
 List to keep track of todos
